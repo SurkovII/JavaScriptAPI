@@ -1,0 +1,19 @@
+.classes {
+    border: 1px solid blue;
+    text-align: center;
+    width: 70vh;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.maxParticipantsCount {
+    color: green;
+}
+
+.full {
+    display: none;
+}
